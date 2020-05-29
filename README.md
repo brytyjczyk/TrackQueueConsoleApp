@@ -1,5 +1,5 @@
 # TrackQueueConsoleApp
-You can run app by executing script run.sh
+You can run app by executing script run.sh  
 Requirements java 11
 # How it looks
 You can put some commands into command line like:  
